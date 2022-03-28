@@ -1,4 +1,4 @@
-var autos = require('../db/autos');
+//var autos = require('../db/autos');
 
 const controller = {
     index: function(req, res) {
