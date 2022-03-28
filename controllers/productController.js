@@ -1,5 +1,5 @@
 //var autos = require('../db/autos');
-
+//MARTU
 const controller = {
     index: function(req, res) {
         res.send(autos.lista);
